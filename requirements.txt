@@ -1,7 +1,4 @@
-streamlit==0.85.0
-pandas
-numpy
-altair
-xlrd
-openpyxl
-streamlit_analytics
+streamlit==1.14.0
+pandas==1.4.4
+numpy==1.21.5
+scikit-learn==1.0.2
