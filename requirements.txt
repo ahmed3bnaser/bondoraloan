@@ -1,5 +1,12 @@
-numpy==1.8.2.
-scipy==1.1.0
-pandas==0.23.0
-scikit-learn==0.19.1
-
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
+gitdb==4.0.7
+GitPython==3.1.18
+nltk==3.6.2
+python-dateutil==2.8.2
+python-git==2018.2.1
+scikit-learn==0.24.2
+sklearn==0.0
+spacy==3.1.1
+spacy-legacy==3.0.8
+streamlit==0.86.0
+gunicorn
